@@ -5,32 +5,18 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
   {
-    name: "Vacation of Africa",
-    year: "Mar2022",
+    name: "BillerQ",
+    year: "Dec2023",
     align: "right",
     image: "../../public/images/website-img-1.jpg",
-    link: "#",
+    link: "https://billerq.app/",
   },
   {
-    name: "Moola App",
-    year: "Sept2022",
+    name: "2ndVahan",
+    year: "Sep 2024",
     align: "left",
     image: "../../public/images/website-img-2.webp",
-    link: "#",
-  },
-  {
-    name: "Tourzania",
-    year: "Jan2023",
-    align: "right",
-    image: "../../public/images/website-img-3.jpg",
-    link: "#",
-  },
-  {
-    name: "Bank of Luck",
-    year: "May2024",
-    align: "left",
-    image: "../../public/images/website-img-4.jpg",
-    link: "#",
+    link: "https://2ndvahan.com/",
   },
 ];
 
@@ -54,6 +40,7 @@ const ProjectsMain = () => {
               year={project.year}
               align={project.align}
               image={project.image}
+              link={project.link}
             />
           );
         })}

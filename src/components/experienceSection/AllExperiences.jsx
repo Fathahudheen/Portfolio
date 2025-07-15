@@ -5,34 +5,35 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const experiences = [
   {
-    job: "Front-End Developer",
-    company: "Alex Apps",
-    date: "2022 - Present",
+    job: "Fullstack Developer",
+    company: "Fullstack Developer Academy pvt ltd",
+    date: "Sep 2022 - Apr 2023",
     responsibilities: [
-      "Implementing reusable components.",
+      "Built a React.js Academic Management System with six user roles.",
       "Participating in large scale application.",
-      "Working on the performance of web applications.",
-      "Generating new ideas for better user experience.",
+      "Designed responsive, accessible, and high-performance UI components.",
+      "Handled Git version control for a team, including reviews and merge conflict resolution.",
     ],
   },
   {
-    job: "Course Instructor",
-    company: "Nucamp",
-    date: "2023 - Present",
+    job: "Front End developer intern",
+    company: "Atees infomedia Pvt Ltd",
+    date: "May 2023 - July 2023",
     responsibilities: [
-      "Explaining and facilitating web development concepts.",
-      "Help students with their assignments and grade them weekly.",
-      "Provide support for students through their learning journey.",
+      "Built KYC interfaces using Next.js, Material UI, and Redux Toolkit for a smooth user experience.",
+      "Debugged and fixed issues to ensure reliable app performance.",
+      "Optimized front-end with code splitting and lazy loading to reduce load times.",
     ],
   },
   {
-    job: "Course Instructor",
-    company: "Sprints",
-    date: "2024 - Present",
+    job: "Front End developer",
+    company: "Quadleo techno solutions Pvt ltd",
+    date: "Nov 2024 - Jan - 2025",
     responsibilities: [
-      "Teaching JavaScript, React and TailwindCSS.",
-      "Participating in preparing course materials.",
-      "Helping students through their way in learning web development technologies.",
+      "Built responsive UIs with React.js, Bootstrap, and SCSS.",
+      "Used Redux for efficient state management.",
+      "Integrated Razorpay and Google Maps APIs. ",
+      "Worked with teams to deliver clean, reusable code. ",
     ],
   },
 ];
