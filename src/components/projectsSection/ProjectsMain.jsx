@@ -8,14 +8,14 @@ const projects = [
     name: "BillerQ",
     year: "Dec2023",
     align: "right",
-    image: "../../public/images/website-img-1.jpg",
+    image: "/images/website-img-1.jpg",
     link: "https://billerq.app/",
   },
   {
     name: "2ndVahan",
     year: "Sep 2024",
     align: "left",
-    image: "../../public/images/website-img-2.webp",
+    image: "/images/website-img-2.webp",
     link: "https://2ndvahan.com/",
   },
 ];
