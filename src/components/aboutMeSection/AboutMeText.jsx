@@ -5,7 +5,7 @@ const AboutMeText = () => {
     <div className="flex flex-col md:items-start sm:items-center md:text-left sm:text-center">
       <h2 className="text-6xl text-cyan mb-10">About Me</h2>
       <p>
-        Dynamic and adaptable IT professional with 4 years of diverse experience
+        Dynamic and adaptable IT professional with 3+ years of diverse experience
         spanning software development and IT administration. Proficient in
         building and maintaining robust, user-focused web applications using
         modern frameworks like React.js, Next.js, and Redux Toolkit.

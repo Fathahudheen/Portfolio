@@ -5,6 +5,16 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const experiences = [
   {
+    job: "IT Support and Admin Assistant",
+    company: "Akbar Travels Pvt Ltd ",
+    date: "Jul 2020 - Aug 2022",
+    responsibilities: [
+      "Provided essential IT support, addressing daily technical issues and ensuring smooth system operations.",
+      "Performed basic networking activities, including setting up connections and resolving connectivity issues.",
+      "Delivered reliable technical assistance to colleagues, fostering a productive and efficient workplace environment.",
+    ],
+  },
+  {
     job: "Fullstack Developer",
     company: "Fullstack Developer Academy pvt ltd",
     date: "Sep 2022 - Apr 2023",
@@ -13,16 +23,6 @@ const experiences = [
       "Participating in large scale application.",
       "Designed responsive, accessible, and high-performance UI components.",
       "Handled Git version control for a team, including reviews and merge conflict resolution.",
-    ],
-  },
-  {
-    job: "Front End developer intern",
-    company: "Atees infomedia Pvt Ltd",
-    date: "May 2023 - July 2023",
-    responsibilities: [
-      "Built KYC interfaces using Next.js, Material UI, and Redux Toolkit for a smooth user experience.",
-      "Debugged and fixed issues to ensure reliable app performance.",
-      "Optimized front-end with code splitting and lazy loading to reduce load times.",
     ],
   },
   {
